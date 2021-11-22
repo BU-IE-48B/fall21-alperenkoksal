@@ -8,4 +8,17 @@ There will be several homework assignments done for this course.
 
 ### Homework Assignment 1
 
-[Here](files/homework1.html)  are Gesture Recognition work.
+[Here](files/IE48b_Fall21_Homework1.pdf) is the description of homework 1
+
+[Here](files/homework1.html)  are Gesture Recognition Work
+
+[Here](files/homework1.ipynb) is the jupyter notebook of homework 1.
+
+
+### Homework Assignment 2
+
+[Here](files/IE48b_Fall21_Homework2.pdf) is the description of homework 2
+
+[Here](files/homework2.html)  Penalized regression approaches for time series representation
+
+[Here](files/homework2.ipynb) is the jupyter notebook of homework 2.
