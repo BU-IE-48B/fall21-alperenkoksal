@@ -19,6 +19,15 @@ There will be several homework assignments done for this course.
 
 [Here](files/IE48b_Fall21_Homework2.pdf) is the description of homework 2
 
-[Here](files/homework2.html)  Penalized regression approaches for time series representation
+[Here](files/homework2.html) are Penalized regression approaches for time series representation work.
 
 [Here](files/homework2.ipynb) is the jupyter notebook of homework 2.
+
+
+### Homework Assignment 3
+
+[Here](files/IE48b_Fall21_Homework3.pdf) is the description of homework 3
+
+[Here](files/homework3.html) are Comparison of NN classifiers with alternative representations work.
+
+[Here](files/homework3.ipynb) is the jupyter notebook of homework 3.
