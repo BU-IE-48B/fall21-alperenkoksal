@@ -36,6 +36,6 @@ There will be several homework assignments done for this course.
 
 [Here](files/IE48B_Fall21_Project.pdf) is the description of Project.
 
-[Here](files/homework3.html)
+[Here](files/IE48B Group 8 Project Report.pdf) is the Project report.
 
-[Here](files/project.ipynb) is the jupyter notebook of homework 3.
+[Here](files/project.ipynb) is the jupyter notebook of Project
