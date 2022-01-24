@@ -32,6 +32,7 @@ There will be several homework assignments done for this course.
 
 [Here](files/homework3.ipynb) is the jupyter notebook of homework 3.
 
+
 ### Project
 
 [Here](files/IE48B_Fall21_Project.pdf) is the description of Project.
